@@ -1,0 +1,19 @@
+.navbar {
+	background-color: #333533;
+	color: white;
+}
+
+a {
+	color:white;
+}
+
+.aboutme {
+	color :grey;
+	background-image: url("pexels-photo-544917.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-x: center;
+    background-position-y: center;
+	width: 100%;
+	margin-top: 51px;
+}
